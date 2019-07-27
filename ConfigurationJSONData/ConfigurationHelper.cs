@@ -30,6 +30,14 @@ namespace ConfigurationJSONData
             }
         }
 
+        public Address UserAddress
+        {
+            get
+            {
+                return _configurationData["User"]["Address"].ToObject<Address>(); ;
+            }
+        }
+
         public List<Address> Countries
         {
             get

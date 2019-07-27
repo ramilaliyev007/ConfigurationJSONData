@@ -23,7 +23,10 @@ namespace ConfigurationJSONData
             Console.WriteLine("User information:");
             Console.WriteLine("Name : " + user.FirstName + ". Surname : " + user.LastName);
             Console.WriteLine("Address : " + user.Address.Country + ", " + user.Address.Capital);
+
+            Console.WriteLine("Read user adress without user object. Address :" + configurationHelper.UserAddress.Country + ", " + configurationHelper.UserAddress.Capital);
             Console.WriteLine();
+
             #endregion Read User End
 
             #region Read Countries Begin
@@ -35,8 +38,8 @@ namespace ConfigurationJSONData
             #endregion Read Countries End
 
             Console.WriteLine("Application information:");
-            Console.WriteLine("Application version is "+configurationHelper.Version);
-            Console.WriteLine("Release date is "+configurationHelper.ReleaseDate);
+            Console.WriteLine("Application version is " + configurationHelper.Version);
+            Console.WriteLine("Release date is " + configurationHelper.ReleaseDate);
 
             Console.ReadLine();
         }
