@@ -1,0 +1,36 @@
+{
+  "DictionaryCollection": {
+    "0": "Not set",
+    "1": "Apple",
+    "2": "Orange",
+    "3": "Ananas",
+    "4": "Tomato"
+  },
+
+  "User": {
+    "FirstName": "Ramil",
+    "LastName": "Aliyev",
+    "Address": {
+      "Country": "Azerbaijan",
+      "City": "Baku"
+    }
+  },
+
+  "Countries": [
+    {
+      "Country": "Azerbaijan",
+      "Capital": "Baku"
+    },
+    {
+      "Country": "Turkey",
+      "Capital": "Ankara"
+    },
+    {
+      "Country": "Rusia",
+      "Capital": "Moskow"
+    }
+  ],
+
+  "Version": "1.0.0.0",
+  "ReleaseDate": "26.07.2019 17:14"
+}

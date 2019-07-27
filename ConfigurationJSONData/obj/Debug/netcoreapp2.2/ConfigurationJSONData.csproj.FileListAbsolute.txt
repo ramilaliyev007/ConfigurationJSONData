@@ -1,0 +1,12 @@
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationJSONData.deps.json
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationJSONData.runtimeconfig.json
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationJSONData.runtimeconfig.dev.json
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationJSONData.dll
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.csprojAssemblyReference.cache
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.csproj.CoreCompileInputs.cache
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.AssemblyInfoInputs.cache
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.AssemblyInfo.cs
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationJSONData.pdb
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.dll
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\obj\Debug\netcoreapp2.2\ConfigurationJSONData.pdb
+C:\Users\Agile\source\repos\ConfigurationJSONData\ConfigurationJSONData\bin\Debug\netcoreapp2.2\ConfigurationData.json
